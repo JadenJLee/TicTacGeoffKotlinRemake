@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DinoGame</string>
+    <string name="howtoplay">Press start to start the game.</string>
+</resources>
