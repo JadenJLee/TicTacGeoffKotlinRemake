@@ -1,3 +1,4 @@
+/*
 package com.example.dinogame;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -49,3 +50,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
+*/
