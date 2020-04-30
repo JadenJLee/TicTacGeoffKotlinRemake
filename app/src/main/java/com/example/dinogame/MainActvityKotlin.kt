@@ -32,10 +32,4 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-    /**
-    fun startDino(view: View) {
-        val intent = Intent(this, GameStart::class.java)
-        startActivity(intent)
-    }
-    **/
 }
