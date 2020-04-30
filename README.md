@@ -30,3 +30,5 @@ before scrapping the idea and making it more simple.
 
 Overall Kotlin was the coolest language I learned so far.
 I liked python a little bit better than Java but Kotlin was the perfect middle ground of the two.
+
+This project is a simple TicTacToe game with Geoff's face and CS125 logo as the X's and O's. The main file is in Java but most of the other essential files are converted into Kotlin.
